@@ -13,8 +13,8 @@ Source of truth for migrating this project to a new workspace. Written from the 
 
 | Field | Value |
 |---|---|
-| Project name | `UNKNOWN` (placeholder not filled by the user). Working label used in this file: "Custom Windows 10 IoT LTSC gaming image" |
-| Project number | `UNKNOWN` |
+| Project name |"Custom Windows 10 IoT LTSC gaming image" |
+| Project number | 'nth' |
 | Category | Windows OS image customization / debloating (DISM, offline registry, scripting) |
 | Primary objective | Build a custom Windows 10 ISO from the **Windows 10 IoT Enterprise LTSC 2021** media that is stripped so the OS uses only the resources needed to run, leaving everything else for games, "smoothest ever, like a PS5 / dedicated gaming hardware" |
 | Long-term vision | `UNKNOWN` beyond the primary objective. The user also said they want to **learn the ISO and its components** and want the assistant to "research for my entire project and support me whenever needed" |
